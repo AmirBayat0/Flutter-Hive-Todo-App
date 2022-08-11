@@ -1,7 +1,8 @@
 # Flutter Hive Todo App
 ## ToDo App using Flutter implemented with Hive DataBase 
 
-### this project is not completed yet, as soon as possible when it's complete I will update the code on Github.
+### This project is not completed yet, as soon as possible when it's complete I will update the here✔!
+#### Thanks For supporting❤!
 
 
 
