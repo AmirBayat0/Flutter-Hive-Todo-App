@@ -1,11 +1,10 @@
 # Flutter Hive Todo App
 ## ToDo App using Flutter implemented with Hive DataBase 
 
+### [Watch on YouTube](https://youtube.com/playlist?list=PLWhSmdyhZUVSZBXZUEUNQnEPZwrhzMz_H&si=pdWClHTx6FVALPlm)
+![Untitled-1](https://github.com/AmirBayat0/Flutter-Hive-Todo-App/assets/91388754/bf9510e4-9f57-42ca-8dd3-ee737d3a7208)
+
 #### Thanks For supporting❤!
-
-
-
-
 
 <div class="row">
   <div class="column">
